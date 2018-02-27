@@ -2,34 +2,40 @@
 
 From Authentic & standard Maharashtrian menu to a wide range of delicacies across contents such as Chinese, Mexican Fast food are our forefront in service crockery etc. We also serve fast food, snack items, Juices for small parties such as Birthdays, Kitty Parties, etc.
 
-### Markdown
+### Our Services
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We offer everyting under one roof.
 
+### Main Services
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- Photography 
+- Video Shooting
+- Mandap
+- Flower Decoration
+- Mehandi
+- Rangoli
+- Lighting
+- D.J.
+- Choreographer 
 
-- Bulleted
-- List
+```
+### We also organise events
+```markdown
 
-1. Numbered
-2. List
+- Corporate Events
+- Birthday Party
+- Naming Ceremony 
+- Sangeet
+- Marriage
+- Reception
+- Get-together
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact
+Harsh Prabhudesai
++91 9822653090
+Pune Office : E-20, Pashimanagari
+Society, Karvenagar, Pune-52
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spk2piyu/kalyanicaterers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
