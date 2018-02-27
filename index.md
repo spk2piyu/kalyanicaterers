@@ -6,7 +6,7 @@ From Authentic & standard Maharashtrian menu to a wide range of delicacies acros
 
 We offer everyting under one roof.
 
-### Main Services
+### Main services
 ```markdown
 
 - Photography 
