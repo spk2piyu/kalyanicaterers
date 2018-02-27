@@ -1,6 +1,6 @@
 ## Welcome to Kalyani Caterers
 
-From Authentic & standard Maharashtrian menu to a wide range of dedicacies across contents such as Chinese, Mexican Fast food are our forefront in service crockery etc. We also serve fast food, snack items, Juices for small parties such as Birthdays, Kitty Parties, etc.
+From Authentic & standard Maharashtrian menu to a wide range of delicacies across contents such as Chinese, Mexican Fast food are our forefront in service crockery etc. We also serve fast food, snack items, Juices for small parties such as Birthdays, Kitty Parties, etc.
 
 ### Markdown
 
