@@ -1,8 +1,6 @@
-## Welcome to KalyaniCaterers
+## Welcome to Kalyani Caterers
 
-You can use the [editor on GitHub](https://github.com/spk2piyu/kalyanicaterers/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+From Authentic & standard Maharashtrian menu to a wide range of dedicacies across contents such as Chinese, Mexican Fast food are our forefront in service crockery etc. We also serve fast food, snack items, Juices for small parties such as Birthdays, Kitty Parties, etc.
 
 ### Markdown
 
