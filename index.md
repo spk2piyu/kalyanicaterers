@@ -2,11 +2,6 @@
 
 From Authentic & standard Maharashtrian menu to a wide range of delicacies across contents such as Chinese, Mexican Fast food are our forefront in service crockery etc. We also serve fast food, snack items, Juices for small parties such as Birthdays, Kitty Parties, etc.
 
-{% for image in site.static_files %}
-    {% if image.path contains 'images/slider' %}
-    ![image]({{ site.baseurl }}{{ image.path }})
-    {% endif %}
-{% endfor %}
 
 ### Our Services
 
