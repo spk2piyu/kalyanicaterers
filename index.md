@@ -4,6 +4,7 @@ From Authentic & standard Maharashtrian menu to a wide range of delicacies acros
 ![useful image]({{ site.url }}/assets/special_veg_thali.jpg)
 {% for image in site.static_files %}
     {% if image.path contains 'images/slider' %}
+    ![useful image]({{ site.baseurl }}{{ image.path }})
         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
     {% endif %}
 {% endfor %}
