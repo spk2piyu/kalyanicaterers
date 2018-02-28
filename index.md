@@ -4,7 +4,7 @@ From Authentic & standard Maharashtrian menu to a wide range of delicacies acros
 
 {% for image in site.static_files %}
     {% if image.path contains 'images/slider' %}
-    <img src="({{ site.baseurl }}{{ image.path }})" />    
+    ![image]({{ site.baseurl }}{{ image.path }})
     {% endif %}
 {% endfor %}
 
